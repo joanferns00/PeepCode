@@ -30,8 +30,9 @@
 }
 
 .textClass{
-    margin-top: 60px;
-    width: 247px;
+    margin-top: 59px;
+    width: 256px;
     text-align: center;
     margin-left: 5px;
+    cursor: pointer;
 }
