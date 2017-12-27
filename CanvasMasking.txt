@@ -1,0 +1,2 @@
+1. http://blog.teamtreehouse.com/create-vector-masks-using-the-html5-canvas
+2. Upload to Heroku

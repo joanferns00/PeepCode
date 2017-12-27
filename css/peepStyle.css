@@ -11,10 +11,28 @@
 }
 
 .iPhoneButton{
-
 	width: 30px;
 	height: 30px;
 	border-radius: 30px;
 	border: 1px solid #333;
+}
 
+.myImageClass{
+	cursor: pointer;
+}
+
+.jumbotron.phoneBg{
+ margin: 0px auto;
+ height: 650px;
+    text-align: center;
+    background: url(../images/iphone.png) no-repeat center;
+    background-size: 290px; 
+}
+
+.textClass{
+    margin-top: 59px;
+    width: 256px;
+    text-align: center;
+    margin-left: 5px;
+    cursor: pointer;
 }
